@@ -1,0 +1,5 @@
+print("Industrial Fault Detection Monitor")
+print("Temperature: 68 C")
+print("Current: 4.2 A")
+print("Vibration RMS: 1.8 mm/s")
+print("Fault Status: Normal")
