@@ -19,8 +19,7 @@ This project implements an industrial equipment fault detection system using STM
 - Python monitoring dashboard
 
 ## System Architecture
-(Add diagram here)
-
+![Architecture](diagrams/system_block_diagram.png)
 ## Engineering Depth
 - Multi-sensor condition monitoring architecture
 - Embedded signal processing for machine health analysis
@@ -35,7 +34,7 @@ Used in:
 - Industrial fault diagnostics
 
 ## Results
-(Add screenshot here)
+![Output](images/output.png)
 
 ## Future Improvements
 - Add cloud-based monitoring
